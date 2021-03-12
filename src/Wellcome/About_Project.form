@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,23,0,0,3,84"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="11" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="821" max="32767" attributes="0"/>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" pref="801" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="513" max="32767" attributes="0"/>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" pref="491" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="About_Project">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="SolaimanLipi" size="24" style="3"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="&#x9ac;&#x9be;&#x982;&#x9b2;&#x9be; &#x987;&#x9ad;&#x9c7;&#x9a8;&#x9cd;&#x99f; &#x995;&#x9cd;&#x9af;&#x9be;&#x9b2;&#x9c7;&#x9a8;&#x9cd;&#x9a1;&#x9be;&#x9b0; &#x9aa;&#x9cd;&#x9b0;&#x99c;&#x9c7;&#x995;&#x9cd;&#x99f;&#x9bf; &#x98f;&#x995;&#x99f;&#x9bf; &#x985;&#x9ad;&#x9bf;&#x9a8;&#x9ac; &#x9aa;&#x9cd;&#x9b0;&#x99c;&#x9c7;&#x995;&#x9cd;&#x99f;&#x964;&#x98f;&#x987; &#x9aa;&#x9cd;&#x9b0;&#x99c;&#x9c7;&#x995;&#x9cd;&#x99f;&#x9c7;&#x9b0; &#x9ae;&#x9be;&#x9a7;&#x9cd;&#x9af;&#x9ae;&#x9c7; &#x986;&#x9ae;&#x9b0;&#x9be;&#xa;&#x9ac;&#x9be;&#x982;&#x9b2;&#x9be;&#x9a6;&#x9c7;&#x9b6;&#x9c7;&#x9b0; &#x987;&#x9a4;&#x9bf;&#x9b9;&#x9be;&#x9b8;,&#x990;&#x9a4;&#x9bf;&#x9b9;&#x9cd;&#x9af; - &#x9ae;&#x9a3;&#x9cd;&#x9a1;&#x9bf;&#x9a4; &#x9a6;&#x9bf;&#x9a8;&#x997;&#x9c1;&#x9b2;&#x9cb; &#x9b8;&#x9ae;&#x9cd;&#x9aa;&#x9b0;&#x9cd;&#x995;&#x9c7;,&#x9ac;&#x9bf;&#x9ad;&#x9bf;&#x9a8;&#x9cd;&#x9a8; &#x9a8;&#x9c3; - &#x9a4;&#x9a4;&#x9cd;&#x9a4;&#x9cd;&#x9af; &#x99c;&#x9a8;&#x997;&#x9cb;&#x9b8;&#x9cd;&#x99f;&#x9c0;&#x9b0; &#xa;&#x9ac;&#x9bf;&#x9ad;&#x9bf;&#x9a8;&#x9cd;&#x9a8; &#x989;&#x9ce;&#x9b8;&#x9ac; &#x9b8;&#x9ae;&#x9cd;&#x9aa;&#x9b0;&#x9cd;&#x995;&#x9c7;  &#x99c;&#x9be;&#x9a8;&#x9a4;&#x9c7; &#x9aa;&#x9be;&#x9b0;&#x9ac; &#x964; &#x9ac;&#x9bf;&#x9b6;&#x9c7;&#x9b7; &#x9a6;&#x9bf;&#x9a8;&#x99f;&#x9bf; &#x995;&#x9ac;&#x9c7; &#x9a5;&#x9c7;&#x995;&#x9c7; &#x989;&#x9a6;&#x9af;&#x9be;&#x9aa;&#x9a8; &#x9b9;&#x99a;&#x9cd;&#x99b;&#x9c7; &#x9a4;&#x9be;&#x981;&#x9b0; &#xa;&#x9a4;&#x9be;&#x9b0;&#x9bf;&#x996; , &#x9ac;&#x9be;&#x982;&#x9b2;&#x9be;  &#x9a4;&#x9be;&#x9b0;&#x9bf;&#x996;  &#x98f;&#x9ac;&#x982; &#x9a6;&#x9bf;&#x9a8;&#x99f;&#x9bf;  &#x995;&#x9bf; &#x9ac;&#x9be;&#x9b0; &#x9a4;&#x9be; &#x99c;&#x9be;&#x9a8;&#x9be; &#x9af;&#x9be;&#x9df;&#x964; &#x986;&#x9a8;&#x9cd;&#x9a4;&#x9b0;&#x9cd;&#x99c;&#x9be;&#x9a4;&#x9bf;&#x995; &#x9ac;&#x9bf;&#x9ad;&#x9bf;&#x9a8;&#x9cd;&#x9a8; &#x9a6;&#x9bf;&#x9ac;&#x9b8; &#xa;&#x9b8;&#x9ae;&#x9cd;&#x9aa;&#x9b0;&#x9cd;&#x995;&#x9c7;  &#x9ac;&#x9bf;&#x9b8;&#x9a6;&#x9ad;&#x9be;&#x9ac;&#x9c7;  &#x99c;&#x9be;&#x9a8;&#x9be; &#x9af;&#x9be;&#x9df; &#x964; &#x9ac;&#x9bf;&#x9ad;&#x9bf;&#x9a8;&#x9cd;&#x9a8;  &#x9a6;&#x9c7;&#x9b6; &#x9a5;&#x9c7;&#x995;&#x9c7;  &#x986;&#x997;&#x9a4;  &#x9ac;&#x9be;&#x982;&#x9b2;&#x9be;  &#x99c;&#x9be;&#x9a8;&#x9be; &#x9b6;&#x9bf;&#x9b2;&#x9cd;&#x9aa;&#x9c0; &#x993; &#xa;&#x985;&#x9a4;&#x9bf;&#x9a5;&#x9bf;&#x997;&#x9a3; &#x98f;&#x987; &#x9aa;&#x9cd;&#x9b0;&#x99c;&#x9c7;&#x995;&#x9cd;&#x99f;&#x9c7;&#x9b0; &#x9ae;&#x9be;&#x9a7;&#x9cd;&#x9af;&#x9ae;&#x9c7; &#x986;&#x9ae;&#x9be;&#x9a6;&#x9c7;&#x9b0; &#x9a6;&#x9c7;&#x9b6;&#x9c7;&#x9b0; &#x9b8;&#x982;&#x9b8;&#x9cd;&#x995;&#x9c3;&#x9a4;&#x9bf; &#x9b8;&#x9ae;&#x9cd;&#x9aa;&#x9b0;&#x9cd;&#x995;&#x9c7; &#x996;&#x9c1;&#x9ac; &#x9b8;&#x9b9;&#x99c;&#x9c7; &#x985;&#x9ac;&#x997;&#x9a4; &#xa;&#x9b9;&#x9a4;&#x9c7; &#x9aa;&#x9be;&#x9b0;&#x9ac;&#x9c7;&#x9a8; &#x964; &#x98f;&#x9b0; &#x9ae;&#x9be;&#x9a7;&#x9cd;&#x9af;&#x9ae;&#x9c7;  &#x986;&#x9ae;&#x9b0;&#x9be; &#x985;&#x9a8;&#x9c7;&#x995;  &#x989;&#x9ce;&#x9b8;&#x9ac;&#x9c7;&#x9b0; &#x987;&#x9a4;&#x9bf;&#x9b9;&#x9be;&#x9b8; &#x98f;&#x9b0; &#x989;&#x9ce;&#x9b8; ,&#x9ac;&#x9cd;&#x9af;&#x9be;&#x9aa;&#x9cd;&#x9a4;&#x9bf;&#x995;&#x9be;&#x9b2; &#xa;&#x98f;&#x9ac;&#x982;  &#x989;&#x9ce;&#x9b8;&#x9ac; &#x9aa;&#x9be;&#x9b2;&#x9a8;&#x9c7;&#x9b0;  &#x9a8;&#x9bf;&#x9df;&#x9ae; &#x996;&#x9c1;&#x9ac;  &#x9b8;&#x9b9;&#x99c;&#x9c7;&#x987;  &#x99c;&#x9be;&#x9a8;&#x9a4;&#x9c7; &#x9aa;&#x9be;&#x9b0;&#x9bf; &#x964; &#x9af;&#x9c7; &#x995;&#x9c7;&#x989;  &#x99a;&#x9be;&#x987;&#x9b2;&#x9c7; &#x9a8;&#x9bf;&#x99c;&#x9c7;&#x9b0; &#xa;&#x9aa;&#x99b;&#x9a8;&#x9cd;&#x9a6;&#x9ae;&#x9a4; &#x9a6;&#x9bf;&#x9a8;&#x99f;&#x9bf; &#x986;&#x9ae;&#x9be;&#x9a6;&#x9c7;&#x9b0; &#x987;&#x9ad;&#x9c7;&#x9a8;&#x9cd;&#x99f;&#x9c7; &#x995;&#x9cd;&#x9af;&#x9be;&#x9b2;&#x9c7;&#x9a8;&#x9cd;&#x9a1;&#x9be;&#x9b0;&#x9c7; &#x9af;&#x9cb;&#x997; &#x995;&#x9b0;&#x9a4;&#x9c7; &#x9aa;&#x9be;&#x9b0;&#x9c7;&#x9a8;&#x964; "/>
+                <Property name="toolTipText" type="java.lang.String" value="About_Project"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder roundedCorners="true" thickness="3">
+                      <Color PropertyName="color" blue="33" green="0" red="33" type="rgb"/>
+                    </LineBorder>
+                  </Border>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Wellcome/bek3.png"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="-6" y="-6" width="860" height="190"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
