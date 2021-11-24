@@ -50,3 +50,11 @@ Screen Shot
 <img src="https://github.com/GK-CPP/Bengali-Event-Calendar-Java-Project/blob/master/pic_of_project/Untitled6.png" width="600" height="300" >
 <p><b>About of project</b></p>
 
+
+
+=============================================== <br> 
+Gulam Kibria Chowdhury <br>
+CSE Graduate || Competitive Programmer <br>
+Sylhet, Bangladesh <br>
+Gmail: gkchowdhury101@gmail.com <br>
+=============================================== <br>
