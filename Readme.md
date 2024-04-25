@@ -34,7 +34,6 @@ To run this project locally, follow these steps:
 This project has the following dependencies:
 
 - Java Development Kit (JDK)
-- [List any additional dependencies or libraries]
 
 ## Usage
 
